@@ -1,2 +1,1 @@
-# Jasypt
-Encryption and decryption using Jaysypt
+Spring Boot project with RabbitMQ
